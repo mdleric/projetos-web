@@ -13,8 +13,8 @@ Aqui estão os 7 projetos desenvolvidos na disciplina.
 3. [Projeto 3 - Projeto](https://mdleric.github.io/projeto3-web/)
 4. [Projeto 4 - Projeto](https://mdleric.github.io/projeto4-web/)
 5. [Projeto 5 - Projeto](https://mdleric.github.io/projeto-5web/)
-6. [Projeto 6 - Projeto]( https://mdleric.github.io/projeto6-web/)
-7. [Projeto 7 - Projeto]( https://mdleric.github.io/projeto7-web/)
+6. [Projeto 6 - Projeto](https://mdleric.github.io/projeto6--web/)
+7. [Projeto 7 - Projeto](https://mdleric.github.io/projeto7-web/)
 
 ---
 
